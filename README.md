@@ -10,6 +10,7 @@ Health Classification: Provides health categories such as Underweight, Normal, O
 Real-time Feedback: Instant BMI calculation and result display upon input.
 
 Screenshots
+
 ![image](https://github.com/RitulK/BMI-Calculator-App/assets/135732042/e3dbbd7c-ca5a-400f-bd98-e706f0b0f00c)
 
 ![image](https://github.com/RitulK/BMI-Calculator-App/assets/135732042/b2fcf527-26af-40b1-ad38-70f40a3388db)
